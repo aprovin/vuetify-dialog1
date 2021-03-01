@@ -58,7 +58,6 @@
                     :items="groups"
                     item-text="name"
                     item-value="id"
-                    attach
                     multiple
                     chips
                     deletable-chips
